@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Congrats on merging your first pull request! We here at behaviorbot are proud of you! :+1:
