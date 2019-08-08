@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+An automated app in GitHub to bring welcome experience for new member on their first actions.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Send welcome message when new member joins, first issue or PR and so on.
 
 ## Getting started
 
